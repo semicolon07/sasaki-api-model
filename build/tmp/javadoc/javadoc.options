@@ -1,0 +1,7 @@
+-classpath '/Users/Semicolon07/Development/Workspace/IntellijWorkspace/sasaki-api-model/build/classes/main:/Users/Semicolon07/Development/Workspace/IntellijWorkspace/sasaki-api-model/build/resources/main:/Users/Semicolon07/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.18/557d13dcb647038dc687390711ccb5c9b3ffbd60/lombok-1.16.18.jar'
+-d '/Users/Semicolon07/Development/Workspace/IntellijWorkspace/sasaki-api-model/build/docs/javadoc'
+-doctitle 'apimodel-model 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'apimodel-model 1.0-SNAPSHOT API'
+'/Users/Semicolon07/Development/Workspace/IntellijWorkspace/sasaki-api-model/src/main/java/com/sasakicondo/apimodel/form/LoginApiForm.java'
+'/Users/Semicolon07/Development/Workspace/IntellijWorkspace/sasaki-api-model/src/main/java/com/sasakicondo/apimodel/Dummy.java'
